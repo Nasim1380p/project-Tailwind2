@@ -1,0 +1,21 @@
+
+.icon-phone { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe800;&nbsp;'); }
+.icon-mail { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe801;&nbsp;'); }
+.icon-link { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe802;&nbsp;'); }
+.icon-flattr { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe803;&nbsp;'); }
+.icon-home { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe804;&nbsp;'); }
+.icon-pencil-neg { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe805;&nbsp;'); }
+.icon-gift { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80a;&nbsp;'); }
+.icon-menu { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf008;&nbsp;'); }
+.icon-globe-inv { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf019;&nbsp;'); }
+.icon-github-circled { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf09b;&nbsp;'); }
+.icon-ok-squared { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf14a;&nbsp;'); }
+.icon-instagram-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf16d;&nbsp;'); }
+.icon-wordpress { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf19a;&nbsp;'); }
+.icon-bicycle { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf206;&nbsp;'); }
+.icon-forumbee { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf211;&nbsp;'); }
+.icon-skyatlas { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf216;&nbsp;'); }
+.icon-diamond { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf219;&nbsp;'); }
+.icon-facebook { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf300;&nbsp;'); }
+.icon-twitter-bird { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf303;&nbsp;'); }
+.icon-linkedin-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xf31a;&nbsp;'); }
