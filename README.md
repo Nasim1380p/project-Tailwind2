@@ -4,7 +4,7 @@
   
 ![image-t1](https://github.com/Nasim1380p/project-Tailwind2/assets/155636802/91a97a78-dfa5-48a6-ae01-ad7651795f68)
 
-![pb2](https://github.com/Nasim1380p/project5-bootstrap/assets/155636802/8866bf06-333e-47c8-af0a-692c9b3fa72d)
+![image-t2](https://github.com/Nasim1380p/project-Tailwind2/assets/155636802/a666797d-d465-4bc4-a056-cd7f5965f28f)
 
 
 
